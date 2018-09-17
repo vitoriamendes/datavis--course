@@ -1,6 +1,7 @@
-## Aula do dia 11/09/2018
+## Exercícios
 
 [Aula 11](d3_scale/movies_scatter.html)<br>
+[Aula 12](d3_update/01_scatterplot.html)<br>
 
 ---
 
